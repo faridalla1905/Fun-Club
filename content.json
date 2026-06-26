@@ -1,4 +1,10 @@
 {
+  "hero": {
+    "kicker": "Since 2020 \u2022 Student-Led \u2022 Community Driven",
+    "title": "Helping students learn, lead, and grow together.",
+    "description": "Fun Club is a student-led organization dedicated to helping children develop English language skills, confidence, leadership, and academic success through engaging educational activities, community service, and mentorship.",
+    "image": "assets/news/meeting3.jpg"
+  },
   "stats": [
     {
       "number": "2020",
@@ -13,74 +19,120 @@
       "label": "Saturday Sessions"
     },
     {
-      "number": "4",
-      "label": "Core Programs"
+      "number": "100%",
+      "label": "Student Led"
     }
   ],
   "news": [
     {
-      "date": "June 2026",
-      "title": "Weekly Saturday Learning Sessions Continue",
-      "text": "Fun Club continues to support students through English learning, STEM activities, leadership practice, and college readiness."
+      "date": "Early Fun Club Session",
+      "title": "Interactive English Lessons",
+      "description": "Students practiced English vocabulary through games, speaking exercises, and visual activities that encouraged participation and confidence.",
+      "image": "assets/news/meeting1.jpg"
     },
     {
-      "date": "June 2026",
-      "title": "Volunteer Opportunities Now Open",
-      "text": "Students and community members can support tutoring, mentoring, event planning, and student activities."
+      "date": "Early Fun Club Session",
+      "title": "Family Vocabulary Workshop",
+      "description": "Students learned family-related vocabulary using songs, pictures, and interactive classroom discussions.",
+      "image": "assets/news/meeting2.jpg"
     },
     {
-      "date": "June 2026",
-      "title": "Fun Club Builds Student Confidence",
-      "text": "Through small-group learning and service projects, students practice communication, teamwork, and leadership."
+      "date": "Early Fun Club Session",
+      "title": "Online Learning Session",
+      "description": "Students practiced speaking and listening skills together while participating in interactive online activities.",
+      "image": "assets/news/meeting3.jpg"
+    },
+    {
+      "date": "Early Fun Club Session",
+      "title": "Building Confidence in English",
+      "description": "Students participated in activities designed to strengthen pronunciation, listening, and everyday communication skills.",
+      "image": "assets/news/meeting4.jpg"
+    },
+    {
+      "date": "Early Fun Club Session",
+      "title": "Learning Through Games",
+      "description": "Educational games helped students review vocabulary while encouraging teamwork, attention, and active participation.",
+      "image": "assets/news/meeting5.jpg"
+    },
+    {
+      "date": "Student Work",
+      "title": "Creativity Meets Language Learning",
+      "description": "Students expressed creativity while reinforcing English vocabulary and sentence writing through drawing activities.",
+      "image": "assets/news/meeting10.jpg"
     }
   ],
-  "events": [
+  "programs": [
     {
-      "date": "Every Saturday",
-      "title": "Student Learning Session",
-      "text": "English learning, STEM activities, college preparation, and leadership support."
+      "icon": "Aa",
+      "title": "English Learning",
+      "description": "Vocabulary, speaking, reading, writing, and confidence-building activities."
     },
     {
-      "date": "Monthly",
-      "title": "Volunteer Planning Meeting",
-      "text": "Volunteers plan upcoming lessons, events, projects, and student support activities."
+      "icon": "\ud83c\udf93",
+      "title": "College Readiness",
+      "description": "Future planning, resumes, scholarships, and career exploration."
     },
     {
-      "date": "Coming Soon",
-      "title": "Community Showcase",
-      "text": "Students will share projects, learning progress, and volunteer impact with families and community members."
+      "icon": "\u2726",
+      "title": "Leadership",
+      "description": "Teamwork, communication, planning, and student-led projects."
+    },
+    {
+      "icon": "\u2318",
+      "title": "STEM Activities",
+      "description": "Coding, technology, creativity, design, and problem-solving."
     }
   ],
   "gallery": [
     {
-      "image": "assets/photos/gallery-1.svg",
-      "title": "Saturday Learning Session",
-      "category": "Education"
+      "image": "assets/news/meeting1.jpg",
+      "title": "Interactive English Lessons",
+      "category": "English Learning"
     },
     {
-      "image": "assets/photos/gallery-2.svg",
-      "title": "Volunteer Team",
-      "category": "Service"
+      "image": "assets/news/meeting2.jpg",
+      "title": "Family Vocabulary Workshop",
+      "category": "Vocabulary"
     },
     {
-      "image": "assets/photos/gallery-3.svg",
-      "title": "English Learning",
-      "category": "Language"
+      "image": "assets/news/meeting3.jpg",
+      "title": "Online Learning Session",
+      "category": "Speaking Practice"
     },
     {
-      "image": "assets/photos/gallery-4.svg",
-      "title": "STEM Activity",
-      "category": "STEM"
+      "image": "assets/news/meeting4.jpg",
+      "title": "Building Confidence in English",
+      "category": "Communication"
     },
     {
-      "image": "assets/photos/gallery-5.svg",
-      "title": "College Readiness",
-      "category": "Future Planning"
+      "image": "assets/news/meeting5.jpg",
+      "title": "Learning Through Games",
+      "category": "Interactive Activity"
     },
     {
-      "image": "assets/photos/gallery-6.svg",
-      "title": "Community Event",
-      "category": "Community"
+      "image": "assets/news/meeting6.jpg",
+      "title": "Family Song Activity",
+      "category": "Listening Practice"
+    },
+    {
+      "image": "assets/news/meeting7.jpg",
+      "title": "Vocabulary Review",
+      "category": "English Practice"
+    },
+    {
+      "image": "assets/news/meeting8.jpg",
+      "title": "Student Engagement",
+      "category": "Online Learning"
+    },
+    {
+      "image": "assets/news/meeting9.jpg",
+      "title": "Weekly English Session",
+      "category": "Fun Club Session"
+    },
+    {
+      "image": "assets/news/meeting10.jpg",
+      "title": "Creative Drawing Activity",
+      "category": "Art + Language"
     }
   ]
 }

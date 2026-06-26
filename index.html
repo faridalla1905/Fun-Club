@@ -2,40 +2,37 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Fun Club | Learn. Lead. Serve.</title>
-<meta name="description" content="A youth-led organization supporting students through education, leadership, STEM, and service.">
-<meta property="og:title" content="Fun Club | Learn. Lead. Serve.">
-<meta property="og:description" content="A youth-led organization supporting students through education, leadership, STEM, and service.">
-<meta property="og:image" content="assets/fun-club-logo.png">
+<title>Fun Club | Learn. Lead. Grow.</title>
+<meta name="description" content="Fun Club helps students build English skills, confidence, leadership, and academic success.">
+<meta property="og:title" content="Fun Club | Learn. Lead. Grow.">
+<meta property="og:description" content="Fun Club helps students build English skills, confidence, leadership, and academic success.">
+<meta property="og:image" content="assets/Fun_Club_Logo.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Poppins:wght@700;800;900&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
 </head><body>
 <nav class="nav"><div class="container nav-inner">
-<a class="brand" href="index.html"><img src="assets/fun-club-logo.png" alt="Fun Club logo"></a>
-<button class="menu" aria-label="Open menu">☰</button><div class="links"><a href="index.html">Home</a><a href="about.html">About</a><a href="programs.html">Programs</a><a href="gallery.html">Gallery</a><a href="volunteer.html">Volunteer</a><a href="contact.html">Contact</a><a class="btn btn-pink" href="volunteer.html">Get Involved</a></div></div></nav>
+<a class="brand" href="index.html"><img src="assets/Fun_Club_Logo.png" alt="Fun Club logo"></a>
+<button class="menu" aria-label="Open menu">☰</button>
+<div class="links">
+<a href="index.html">Home</a><a href="about.html">About</a><a href="programs.html">Programs</a><a href="gallery.html">Gallery</a><a href="volunteer.html">Volunteer</a><a href="contact.html">Contact</a>
+<a class="btn btn-pink" href="volunteer.html">Get Involved</a>
+</div></div></nav>
 <main>
 <section class="hero"><div class="container hero-grid">
-<div class="reveal"><p class="kicker">Youth-led • Community-focused • Future-ready</p><h1>Helping students learn, lead, and serve.</h1><p class="lead">Fun Club supports students through English learning, college readiness, STEM activities, leadership development, and meaningful volunteer service.</p><div class="actions"><a class="btn btn-dark" href="programs.html">Explore Programs</a><a class="btn btn-white" href="volunteer.html">Volunteer</a></div></div>
-<div class="hero-card reveal"><div class="hero-photo"><div class="glass"><b>Weekly Saturday sessions</b><p class="muted">A welcoming space for learning, confidence, and community impact.</p></div></div></div>
+<div class="reveal"><p id="heroKicker" class="kicker"></p><h1 id="heroTitle"></h1><p id="heroDescription" class="lead"></p><div class="actions"><a class="btn btn-dark" href="programs.html">Explore Programs</a><a class="btn btn-white" href="volunteer.html">Become a Volunteer</a></div></div>
+<div class="hero-card reveal"><div id="heroPhoto" class="hero-photo"><div class="glass"><b>Real learning moments</b><p class="muted">Students learn through conversation, games, creativity, and supportive online sessions.</p></div></div></div>
 </div></section>
-<section class="section"><div class="container split"><div class="section-head reveal"><p class="kicker">Mission</p><h2>Support that feels personal, useful, and real.</h2></div><div class="panel reveal"><p>Fun Club creates a welcoming environment where students can build academic confidence, practice communication, explore future goals, and grow as leaders. The organization connects education with service so students can learn while also making a positive impact.</p></div></div></section>
+<section id="news" class="section"><div class="container"><div class="section-head reveal"><p class="kicker">Latest News</p><h2>Recent Fun Club Activities</h2><p>Real moments from Fun Club learning sessions, games, and student activities.</p></div><div id="newsCards" class="grid grid-3"></div></div></section>
 <section class="section"><div class="container"><div id="stats" class="stats"></div></div></section>
-<section class="section"><div class="container"><div class="section-head reveal"><p class="kicker">Programs</p><h2>Four clear ways Fun Club helps students grow.</h2></div><div class="grid grid-4">
-<a class="card reveal" href="programs.html#english"><div class="icon">Aa</div><h3>English Learning</h3><p>Vocabulary, speaking, reading, writing, and confidence.</p></a>
-<a class="card reveal" href="programs.html#college"><div class="icon">🎓</div><h3>College Readiness</h3><p>Future planning, resumes, scholarships, and career goals.</p></a>
-<a class="card reveal" href="programs.html#leadership"><div class="icon">✦</div><h3>Leadership</h3><p>Teamwork, project planning, communication, and responsibility.</p></a>
-<a class="card reveal" href="programs.html#stem"><div class="icon">⌘</div><h3>STEM Activities</h3><p>Coding, technology, creativity, and problem-solving.</p></a>
-</div></div></section>
-<section id="news" class="section"><div class="container"><div class="section-head reveal"><p class="kicker">Latest News</p><h2>A website looks real when it stays active.</h2><p>Update this section every week using the free content file.</p></div><div id="newsCards" class="grid grid-3"></div></div></section>
-<section class="section"><div class="container cta reveal"><div><p class="kicker">Volunteer</p><h2>Help students build confidence.</h2><p>Volunteers can support tutoring, mentoring, STEM activities, college readiness, events, and community projects.</p></div><a class="btn btn-pink" href="volunteer.html">Get Involved</a></div></section>
+<section class="section"><div class="container"><div class="section-head reveal"><p class="kicker">Programs</p><h2>Four clear ways Fun Club helps students grow.</h2></div><div id="programCards" class="grid grid-4"></div></div></section>
+<section class="section"><div class="container cta reveal"><div><p class="kicker">Volunteer</p><h2>Help students build confidence.</h2><p>Volunteers can support tutoring, mentoring, English activities, college readiness, events, and community projects.</p></div><a class="btn btn-pink" href="volunteer.html">Get Involved</a></div></section>
 </main>
-
 <footer class="footer"><div class="container footer-grid">
-<div><img src="assets/fun-club-logo.png" alt="Fun Club logo" style="height:54px;margin-bottom:12px"><p>Fun Club helps students learn, lead, and serve through education, mentoring, and volunteer opportunities.</p></div>
+<div><img src="assets/Fun_Club_Logo.png" alt="Fun Club logo" style="height:70px;margin-bottom:12px"><p>Fun Club helps students learn, lead, and grow through English learning, educational activities, and volunteer service.</p></div>
 <div><b>Pages</b><p><a href="about.html">About</a><br><a href="programs.html">Programs</a><br><a href="gallery.html">Gallery</a></p></div>
-<div><b>Updates</b><p><a href="index.html#news">News</a><br><a href="events.html">Events</a><br><a href="impact.html">Impact</a></p></div>
+<div><b>Updates</b><p><a href="index.html#news">News</a><br><a href="impact.html">Impact</a><br><a href="volunteer.html">Volunteer</a></p></div>
 <div><b>Contact</b><p>Dallas, Texas<br>funclub@example.com<br>Instagram • LinkedIn</p></div>
 </div><div class="container" style="margin-top:24px;color:#667085;font-size:.92rem">© 2026 Fun Club™. All rights reserved.</div></footer>
 <script src="script.js"></script></body></html>
