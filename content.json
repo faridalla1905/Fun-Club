@@ -1,0 +1,86 @@
+{
+  "stats": [
+    {
+      "number": "2020",
+      "label": "Founded"
+    },
+    {
+      "number": "250+",
+      "label": "Volunteer Hours"
+    },
+    {
+      "number": "Weekly",
+      "label": "Saturday Sessions"
+    },
+    {
+      "number": "4",
+      "label": "Core Programs"
+    }
+  ],
+  "news": [
+    {
+      "date": "June 2026",
+      "title": "Weekly Saturday Learning Sessions Continue",
+      "text": "Fun Club continues to support students through English learning, STEM activities, leadership practice, and college readiness."
+    },
+    {
+      "date": "June 2026",
+      "title": "Volunteer Opportunities Now Open",
+      "text": "Students and community members can support tutoring, mentoring, event planning, and student activities."
+    },
+    {
+      "date": "June 2026",
+      "title": "Fun Club Builds Student Confidence",
+      "text": "Through small-group learning and service projects, students practice communication, teamwork, and leadership."
+    }
+  ],
+  "events": [
+    {
+      "date": "Every Saturday",
+      "title": "Student Learning Session",
+      "text": "English learning, STEM activities, college preparation, and leadership support."
+    },
+    {
+      "date": "Monthly",
+      "title": "Volunteer Planning Meeting",
+      "text": "Volunteers plan upcoming lessons, events, projects, and student support activities."
+    },
+    {
+      "date": "Coming Soon",
+      "title": "Community Showcase",
+      "text": "Students will share projects, learning progress, and volunteer impact with families and community members."
+    }
+  ],
+  "gallery": [
+    {
+      "image": "assets/photos/gallery-1.svg",
+      "title": "Saturday Learning Session",
+      "category": "Education"
+    },
+    {
+      "image": "assets/photos/gallery-2.svg",
+      "title": "Volunteer Team",
+      "category": "Service"
+    },
+    {
+      "image": "assets/photos/gallery-3.svg",
+      "title": "English Learning",
+      "category": "Language"
+    },
+    {
+      "image": "assets/photos/gallery-4.svg",
+      "title": "STEM Activity",
+      "category": "STEM"
+    },
+    {
+      "image": "assets/photos/gallery-5.svg",
+      "title": "College Readiness",
+      "category": "Future Planning"
+    },
+    {
+      "image": "assets/photos/gallery-6.svg",
+      "title": "Community Event",
+      "category": "Community"
+    }
+  ]
+}
