@@ -1,0 +1,68 @@
+{
+  "stats": [
+    { "value": "32", "label": "Club members" },
+    { "value": "1000+", "label": "Service hours logged" },
+    { "value": "6", "label": "Years running" }
+  ],
+  "news": [
+    {
+      "date": "Summer 2026",
+      "tag": "Program",
+      "title": "Summer 4-week boot camp",
+      "body": "Fun Club's four-week summer program helped young English learners develop confidence in speaking through engaging lessons, storytelling, drawing, interactive games, and real-life communication activities. Students practiced everyday English while strengthening creativity, social skills, and classroom participation in a fun and supportive environment."
+    },
+    {
+      "date": "Spring 2025",
+      "tag": "Community",
+      "title": "Spring session wraps with a family showcase",
+      "body": "Students shared short stories, songs, and vocabulary games with families in a packed community virtual-room afternoon."
+    },
+    {
+      "date": "Winter 2024",
+      "tag": "Milestone",
+      "title": "1,000 service hours and counting",
+      "body": "Our student volunteers and members just crossed a thousand logged hours mentoring, planning lessons, and running weekend workshops."
+    }
+  ],
+  "programsPreview": [
+    { "icon": "📚", "title": "English Learning", "body": "Interactive weekly lessons that turn vocabulary, grammar, and conversation into games." },
+    { "icon": "🌟", "title": "Leadership", "body": "Student-led workshops where members plan, teach, and mentor younger learners." },
+    { "icon": "🔬", "title": "STEM Projects", "body": "Hands-on science and tech activities paired with English vocabulary and teamwork." },
+    { "icon": "🧰", "title": "Learning Toolkit", "body": "Free, research-informed resources that build study habits, focus, memory, and executive-function skills." }
+  ],
+  "programs": [
+    {
+      "icon": "📚",
+      "title": "English Learning",
+      "body": "Weekly small-group sessions covering conversation, reading, writing, and vocabulary. Every lesson uses games, flashcards, and role play so children practice English in a low-pressure, encouraging setting."
+    },
+    {
+      "icon": "🌟",
+      "title": "Leadership Development",
+      "body": "Older students step into leadership by planning lessons, leading discussions, and mentoring newer members. Volunteers build communication, organization, and public-speaking skills through real responsibility."
+    },
+    {
+      "icon": "🔬",
+      "title": "STEM Projects",
+      "body": "Hands-on science and technology workshops — from simple circuits to coding basics — paired with the English vocabulary students need to describe what they are building."
+    },
+    {
+      "icon": "🧰",
+      "title": "Learning Toolkit",
+      "body": "Our Learning Toolkit provides free, research-informed resources that help students develop stronger study habits, organization, focus, memory, and executive functioning skills. Inspired by neuroscience and learning science, these practical tools are designed to support a wide range of learners and help every student build confidence both inside and outside the classroom."
+    }
+  ],
+  "gallery": [
+    { "video": "images/IMG_2037.mp4", "title": "Spring session presentation", "color": "coral" },
+    { "video": "images/IMG_2039.mp4", "title": "Spring session presentation", "color": "sky" },
+    { "image": "images/IMG_0969.JPEG", "title": "\"I love my family\" — family vocabulary lesson", "color": "yellow" },
+    { "image": "images/IMG_0970.JPEG", "title": "Day 2 warm-up with the whole crew", "color": "mint" },
+    { "image": "images/IMG_0975.JPEG", "title": "Weather words — describing a stormy day", "color": "coral" },
+    { "image": "images/IMG_0976.JPEG", "title": "Family vocabulary: \"Sister\"", "color": "sky" },
+    { "image": "images/IMG_0979.JPEG", "title": "Emotions lesson — practicing \"excited\"", "color": "mint" },
+    { "image": "images/IMG_0980.JPEG", "title": "Sing-along: The People In My Family", "color": "yellow" },
+    { "image": "images/IMG_0981.JPEG", "title": "Family song vocabulary practice", "color": "coral" },
+    { "image": "images/IMG_0982.JPEG", "title": "Spin-the-wheel family words game", "color": "sky" },
+    { "image": "images/7e5d37fd-14a2-41f3-bc45-5eda0877b3bc.JPEG", "title": "Emotions lesson — describing feelings", "color": "mint" }
+  ]
+}
